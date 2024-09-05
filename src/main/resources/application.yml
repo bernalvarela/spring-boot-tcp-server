@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-boot-tcp-server
+
+tcp:
+  server:
+    port: 10002
